@@ -1,2 +1,2 @@
-# LING-389
-Notes, examples, scratch work from the "Data Science for Linguistics" (LING 389) course.
+# LING-250
+Notes, examples, scratch work from the "Data Science for Linguistics" (LING 250) course.
